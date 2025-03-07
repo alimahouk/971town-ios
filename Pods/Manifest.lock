@@ -1,0 +1,22 @@
+PODS:
+  - KeychainSwift (20.0.0)
+  - SDWebImage (5.15.2):
+    - SDWebImage/Core (= 5.15.2)
+  - SDWebImage/Core (5.15.2)
+
+DEPENDENCIES:
+  - KeychainSwift
+  - SDWebImage
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - KeychainSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  KeychainSwift: 0ce6a4d13f7228054d1a71bb1b500448fb2ab837
+  SDWebImage: 8ab87d4b3e5cc4927bd47f78db6ceb0b94442577
+
+PODFILE CHECKSUM: fa86f2706e177b865f8a9f0c21d21739b1219b88
+
+COCOAPODS: 1.11.3
